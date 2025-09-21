@@ -14,9 +14,13 @@ The workflow consists of:
 
 ## 📂 Repository Structure
 ├── processed/ # Training images used for fine-tuning Florence
+
 ├── captions.jsonl # Text descriptions for images in processed/
+
 ├── florence_finetune_new.ipynb # Notebook for fine-tuning Florence
+
 ├── florence2_val5.ipynb # Notebook for evaluating models and classification
+
 └── README.md
 
 ---
