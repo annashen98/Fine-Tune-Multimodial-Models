@@ -74,10 +74,12 @@ Answer with only the category number (1 to 5).
 
 Store description: "{description}"  
 """.strip()
+```
 
 For example, if Florence generates the description
 "A small shop with a sign reading "Ferrelectricos" and a large electrical wire inside. The shop appears to be a hardware store, likely used for electrical equipment.",
 the prompt will guide Flan-T5 to classify it as 4 (Industrial & Repair).
+
 ---
 
 ## 🚀 Usage
